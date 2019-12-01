@@ -1,0 +1,8 @@
+/Users/pablobautista/source/repos/csd412/usermovieApp/FileUploadControl/bin/Debug/netcoreapp3.0/FileUploadControl.deps.json
+/Users/pablobautista/source/repos/csd412/usermovieApp/FileUploadControl/bin/Debug/netcoreapp3.0/FileUploadControl.dll
+/Users/pablobautista/source/repos/csd412/usermovieApp/FileUploadControl/bin/Debug/netcoreapp3.0/FileUploadControl.pdb
+/Users/pablobautista/source/repos/csd412/usermovieApp/FileUploadControl/obj/Debug/netcoreapp3.0/FileUploadControl.csprojAssemblyReference.cache
+/Users/pablobautista/source/repos/csd412/usermovieApp/FileUploadControl/obj/Debug/netcoreapp3.0/FileUploadControl.AssemblyInfoInputs.cache
+/Users/pablobautista/source/repos/csd412/usermovieApp/FileUploadControl/obj/Debug/netcoreapp3.0/FileUploadControl.AssemblyInfo.cs
+/Users/pablobautista/source/repos/csd412/usermovieApp/FileUploadControl/obj/Debug/netcoreapp3.0/FileUploadControl.dll
+/Users/pablobautista/source/repos/csd412/usermovieApp/FileUploadControl/obj/Debug/netcoreapp3.0/FileUploadControl.pdb
